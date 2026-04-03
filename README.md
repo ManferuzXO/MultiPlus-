@@ -1,19 +1,20 @@
 <div align="center">
 
-<div align="center">
-  <img src="./img/logo.png" width="120" style="border-radius: 20%"/>
-  <p><strong></strong></p>
+<img src="./img/logo.png" width="150" style="border-radius: 20%"/>
 
-### 🎬 Plataforma de entretenimiento para ver **Series**, **Películas** y **Anime**
+# 🎬 Multiplus+
 
-<br/>
+### Plataforma de entretenimiento para ver **Series**, **Películas** y **Anime**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+
+
+![Tipo](https://img.shields.io/badge/Tipo-Frontend%20Estático-4CC9F0?style=flat-square)
 
 
 </div>
@@ -23,6 +24,8 @@
 ## 📖 Descripción
 
 **Multiplus** es una plataforma web de entretenimiento que simula un servicio de streaming. Permite navegar por catálogos de **series**, **películas** y **anime**, ver fichas de detalle de cada título y reproducir contenido directamente desde el navegador.
+
+> 🚫 No requiere backend ni base de datos — es 100% frontend estático.
 
 ---
 
@@ -45,32 +48,36 @@
 
 ### Base
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" title="SASS / SCSS"/>
-</p>
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" title="SASS"/>
+
+</div>
 
 | Tecnología | Rol |
 |---|---|
 | **HTML5** | Estructura de todas las páginas |
 | **CSS3** | Estilos base y animaciones |
 | **JavaScript (ES6)** | Lógica e interactividad |
-| **SASS / SCSS** | Estilos modulares con variables, mixins y parciales por componente |
+| **SASS / SCSS** | Estilos modulares con variables, mixins y parciales |
 
 ---
 
 ### Frameworks & Librerías
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap 4"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" title="jQuery"/>
-</p>
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap 4"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" title="jQuery"/>
+
+</div>
 
 | Librería | Versión | Rol |
 |---|---|---|
@@ -93,33 +100,37 @@
 
 ### Iconografía & Fuentes
 
-<p>
-  Font Awesome
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" title="Google Fonts"/>
-</p>
+<div align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Font_Awesome_5_logo.svg/200px-Font_Awesome_5_logo.svg.png" width="50" title="Font Awesome"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" title="Google Fonts"/>
+
+</div>
 
 | Recurso | Uso |
 |---|---|
-| **Font Awesome** | Iconografía general (`font-awesome.min.css`) |
-| **Elegant Icons** | Iconos decorativos adicionales (`elegant-icons.css`) |
+| **Font Awesome** | Iconografía general |
+| **Elegant Icons** | Iconos decorativos adicionales |
 | **Google Fonts** | Tipografías web importadas |
 
 ---
 
 ### Entorno de desarrollo
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
-</p>
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+
+</div>
 
 | Herramienta | Uso |
 |---|---|
-| **VS Code** | Editor principal (incluye `.vscode/settings.json`) |
+| **VS Code** | Editor principal |
 | **Git** | Control de versiones |
 | **GitHub** | Repositorio y colaboración |
 
@@ -145,7 +156,7 @@
 │   ├── details movie/
 │   │   ├── movie detail1.html
 │   │   ├── movie detail2.html
-│   │   └── movie detail3.html          → Fichas de detalle
+│   │   └── movie detail3.html
 │   └── watch movie/
 │       └── watch movie1.html           → Reproductor
 │
@@ -207,36 +218,43 @@ Multiplus/
 │   ├── jquery.slicknav.js
 │   └── jquery.nice-select.min.js
 ├── fonts/
-│   ├── ElegantIcons.eot / .svg / .ttf / .woff
-│   └── fontawesome-webfont.eot / .svg / .ttf / .woff / .woff2
-├── img/
-│   ├── logo.png
-│   ├── normal-breadcrumb.jpg
-│   └── inicio/
-│       ├── carrusel/
-│       ├── 1tendencia_ahora/
-│       ├── 2mas_populares/
-│       ├── 3agregados_recientemente/
-│       ├── 4recomendados/
-│       ├── 5top_vistas/
-│       └── 6mas_comentado/
-└── pages/
-    ├── categories/
-    │   ├── anime/
-    │   ├── movies/
-    │   └── series/
-    └── menu/
+└── img/
+    ├── logo.png
+    └── inicio/
+        ├── carrusel/
+        ├── 1tendencia_ahora/
+        ├── 2mas_populares/
+        ├── 3agregados_recientemente/
+        ├── 4recomendados/
+        ├── 5top_vistas/
+        └── 6mas_comentado/
 ```
 
+---
 
+## 🚀 Cómo ejecutar
 
+**Opción 1 — Directo**
+```
+Doble click en index.html
+```
 
+**Opción 2 — Live Server (recomendado)**
+```
+Click derecho en index.html → "Open with Live Server"
+```
+
+**Opción 3 — Python**
+```bash
+python -m http.server 8000
+# Luego ir a: http://localhost:8000
+```
+
+> ⚠️ Se recomienda un servidor local para evitar problemas con rutas relativas.
 
 ---
 
 ## 🧩 Arquitectura SASS
-
-El proyecto usa una arquitectura modular SCSS con parciales separados por componente:
 
 ```
 sass/
@@ -244,18 +262,18 @@ sass/
 ├── _mixins.scss         → Mixins reutilizables
 ├── _base.scss           → Reset y estilos base
 ├── _header.scss         → Cabecera y navegación
-├── _hero.scss           → Sección banner/carrusel principal
-├── _product.scss        → Cards de contenido (series, películas, anime)
-├── _breadcrumb.scss     → Navegación de migas de pan
+├── _hero.scss           → Banner/carrusel principal
+├── _product.scss        → Cards de contenido
+├── _breadcrumb.scss     → Migas de pan
 ├── _footer.scss         → Pie de página
 ├── _login.scss          → Formulario de inicio de sesión
 ├── _signup.scss         → Formulario de registro
 ├── _anime-details.scss  → Página de detalle de anime
 ├── _anime-watching.scss → Vista de reproducción
-├── _blog.scss           → Sección blog/noticias
+├── _blog.scss           → Sección blog
 ├── _blog-details.scss   → Detalle de post
-├── _responsive.scss     → Media queries para responsive design
-└── style.scss           → Archivo principal que importa todos los parciales
+├── _responsive.scss     → Media queries
+└── style.scss           → Archivo principal
 ```
 
 ---
@@ -264,8 +282,4 @@ sass/
 
 **Multiplus** · Proyecto Académico · Carrera de Informática — UMSA
 
-*Plataforma frontend estática de entretenimiento*
-
-</div>#   M u l t i P l u s -  
- #   M u l t i P l u s -  
- 
+</div>
